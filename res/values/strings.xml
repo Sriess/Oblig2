@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oblig2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="other_activity">Other Activity</string>
+    <string name="next_fragment">Next Fragment</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="Other_Activity_Text">Hi, welcome to this other activity. There\'s really not much to do here, so please hit the \"back\" button :)</string>
+    <string name="insert_frag">Insert Fragment</string>
+    <string name="vibrate">Vibrate!</string>
+    <string name="notification">Notification!</string>
+    <string name="toast">Toast</string>
+    <string name="camera">Start Camera</string>
+
+</resources>
